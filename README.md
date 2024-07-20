@@ -1,4 +1,5 @@
 # 👋 Hi, I'm @fzlzjerry
+![Morax's GitHub stats](https://github-readme-stats.vercel.app/api?username=fzlzjerry&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fzlzjerry&layout=compact&theme=tokyonight) 
 
 ## About Me
 - 👀 I’m passionate about programming and technology.
@@ -14,6 +15,8 @@
 - 📫 Feel free to reach out to me via:
   - **QQ:** 3013159445
   - **Email:** [James20081204@gmail.com](mailto:James20081204@gmail.com) / [James20081204@outlook.com](mailto:James20081204@outlook.com)
+
+![Visitor Count](https://profile-counter.glitch.me/fzlzjerry/count.svg)
 
 <!---
 fzlzjerry/fzlzjerry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
