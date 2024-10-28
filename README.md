@@ -1,5 +1,5 @@
 # 👋 Hi, I'm @fzlzjerry
-![Morax's GitHub stats](https://github-readme-stats.vercel.app/api?username=all-smile&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fzlzjerry&layout=compact&theme=tokyonight) 
+![Morax's GitHub stats](https://github-readme-stats.vercel.app/api?username=fzlzjerry&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fzlzjerry&layout=compact&theme=tokyonight) 
 
 ## About Me
 - 👀 I’m passionate about programming and technology.
