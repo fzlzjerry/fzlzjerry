@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/moraxcheng" target="blank"><img src="https://img.shields.io/twitter/follow/moraxcheng?logo=twitter&style=for-the-badge" alt="moraxcheng" /></a> </p>
 
-- 🔭 I’m currently working on [Graphing Calculator](https://github.com/fzlzjerry/graphing_calculator)
+- 🔭 I’m currently working on [win12](https://github.com/tjy-gitnub/win12)
 
 - 🌱 I’m currently learning **Matlab**
 
