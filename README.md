@@ -44,10 +44,6 @@
   </table>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fzlzjerry&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Streak" />
-</div>
-
 ## 📌 Featured Projects
 
 <div align="center">
@@ -86,15 +82,6 @@
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
-<div align="center">
-  <!-- GitHub Contribution Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fzlzjerry/fzlzjerry/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fzlzjerry/fzlzjerry/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/fzlzjerry/fzlzjerry/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 <div align="center">
