@@ -1,12 +1,19 @@
+<!-- Add spacing at the top to prevent cutoff -->
+<br/>
+
 <!-- Animated Wave Header -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Morax%20Cheng&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Open%20Source%20Developer%20|%20Tech%20Enthusiast&descAlignY=55&descAlign=62" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Morax%20Cheng&fontSize=75&fontColor=fff&animation=fadeIn&fontAlignY=33&desc=Open%20Source%20Developer%20|%20Tech%20Enthusiast&descAlignY=58&descAlign=62" />
 </div>
+
+<br/>
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6495ED&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hi+%F0%9F%91%8B+Welcome+to+my+GitHub+Profile!;I'm+a+Passionate+Teenage+Developer+%F0%9F%9A%80;Building+the+Future+with+Code+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6495ED&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hi+%F0%9F%91%8B+Welcome+to+my+GitHub+Profile!;I'm+a+Passionate+Teenage+Developer+%F0%9F%9A%80;Building+the+Future+with+Code+%E2%9C%A8" alt="Typing SVG" />
 </div>
+
+<br/>
 
 <!-- Badges -->
 <div align="center">
@@ -94,7 +101,11 @@ me.say_hi()
   
   <!-- GitHub Streak Stats -->
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fzlzjerry&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=fzlzjerry&theme=tokyonight&hide_border=true&background=0D1117&ring=6495ED&fire=6495ED&currStreakLabel=6495ED" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=fzlzjerry&theme=tokyonight&hide_border=true&background=0D1117&ring=6495ED&fire=6495ED&currStreakLabel=6495ED" />
+    <img src="https://streak-stats.demolab.com?user=fzlzjerry&theme=tokyonight&hide_border=true&background=0D1117&ring=6495ED&fire=6495ED&currStreakLabel=6495ED" width="100%" alt="GitHub Streak Stats" />
+  </picture>
   
 </div>
 
