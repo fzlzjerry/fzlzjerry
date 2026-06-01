@@ -131,7 +131,20 @@ me.say_hi()
 
 <table align="center">
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="33%" align="center" valign="top">
+      <h3><a href="https://github.com/fzlzjerry/wechat-antirecall">🛡️ wechat-antirecall</a></h3>
+      <p>Anti-recall (防撤回) for <b>macOS WeChat 4</b> and later.</p>
+      <a href="https://github.com/fzlzjerry/wechat-antirecall">
+        <img src="https://img.shields.io/github/stars/fzlzjerry/wechat-antirecall?style=for-the-badge&logo=github&labelColor=0D1117&color=E0AF68" alt="Stars" />
+      </a>
+      <a href="https://github.com/fzlzjerry/wechat-antirecall">
+        <img src="https://img.shields.io/github/forks/fzlzjerry/wechat-antirecall?style=for-the-badge&logo=github&labelColor=0D1117&color=6495ED" alt="Forks" />
+      </a>
+      <br/>
+      <img src="https://img.shields.io/github/languages/top/fzlzjerry/wechat-antirecall?style=for-the-badge&labelColor=0D1117&color=70A5FD" alt="Top language" />
+      <img src="https://img.shields.io/github/last-commit/fzlzjerry/wechat-antirecall?style=for-the-badge&labelColor=0D1117&color=9D7CD8" alt="Last commit" />
+    </td>
+    <td width="33%" align="center" valign="top">
       <h3><a href="https://github.com/tjy-gitnub/win12">🪟 win12</a></h3>
       <p>A slick <b>Windows 12</b> concept that runs entirely in the browser.</p>
       <a href="https://github.com/tjy-gitnub/win12">
@@ -144,7 +157,7 @@ me.say_hi()
       <img src="https://img.shields.io/github/languages/top/tjy-gitnub/win12?style=for-the-badge&labelColor=0D1117&color=70A5FD" alt="Top language" />
       <img src="https://img.shields.io/github/last-commit/tjy-gitnub/win12?style=for-the-badge&labelColor=0D1117&color=9D7CD8" alt="Last commit" />
     </td>
-    <td width="50%" align="center" valign="top">
+    <td width="33%" align="center" valign="top">
       <h3><a href="https://github.com/lobehub/lobe-chat">💬 lobe-chat</a></h3>
       <p>Modern open-source <b>AI chat framework</b> for ChatGPT &amp; LLMs.</p>
       <a href="https://github.com/lobehub/lobe-chat">
