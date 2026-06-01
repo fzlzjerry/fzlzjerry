@@ -111,12 +111,7 @@ me.say_hi()
 
 <div align="center">
 
-  <!-- GitHub Stats Cards -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fzlzjerry&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fzlzjerry&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-
   <!-- GitHub Streak Stats -->
-  <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=fzlzjerry&theme=tokyonight&hide_border=true&background=0D1117&ring=6495ED&fire=6495ED&currStreakLabel=6495ED" />
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=fzlzjerry&theme=tokyonight&hide_border=true&background=0D1117&ring=6495ED&fire=6495ED&currStreakLabel=6495ED" />
@@ -134,14 +129,36 @@ me.say_hi()
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-<div align="center">
-  <a href="https://github.com/tjy-gitnub/win12">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tjy-gitnub&repo=win12&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="win12" />
-  </a>
-  <a href="https://github.com/lobehub/lobe-chat">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lobehub&repo=lobe-chat&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="lobe-chat" />
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3><a href="https://github.com/tjy-gitnub/win12">🪟 win12</a></h3>
+      <p>A slick <b>Windows 12</b> concept that runs entirely in the browser.</p>
+      <a href="https://github.com/tjy-gitnub/win12">
+        <img src="https://img.shields.io/github/stars/tjy-gitnub/win12?style=for-the-badge&logo=github&labelColor=0D1117&color=E0AF68" alt="Stars" />
+      </a>
+      <a href="https://github.com/tjy-gitnub/win12">
+        <img src="https://img.shields.io/github/forks/tjy-gitnub/win12?style=for-the-badge&logo=github&labelColor=0D1117&color=6495ED" alt="Forks" />
+      </a>
+      <br/>
+      <img src="https://img.shields.io/github/languages/top/tjy-gitnub/win12?style=for-the-badge&labelColor=0D1117&color=70A5FD" alt="Top language" />
+      <img src="https://img.shields.io/github/last-commit/tjy-gitnub/win12?style=for-the-badge&labelColor=0D1117&color=9D7CD8" alt="Last commit" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3><a href="https://github.com/lobehub/lobe-chat">💬 lobe-chat</a></h3>
+      <p>Modern open-source <b>AI chat framework</b> for ChatGPT &amp; LLMs.</p>
+      <a href="https://github.com/lobehub/lobe-chat">
+        <img src="https://img.shields.io/github/stars/lobehub/lobe-chat?style=for-the-badge&logo=github&labelColor=0D1117&color=E0AF68" alt="Stars" />
+      </a>
+      <a href="https://github.com/lobehub/lobe-chat">
+        <img src="https://img.shields.io/github/forks/lobehub/lobe-chat?style=for-the-badge&logo=github&labelColor=0D1117&color=6495ED" alt="Forks" />
+      </a>
+      <br/>
+      <img src="https://img.shields.io/github/languages/top/lobehub/lobe-chat?style=for-the-badge&labelColor=0D1117&color=70A5FD" alt="Top language" />
+      <img src="https://img.shields.io/github/last-commit/lobehub/lobe-chat?style=for-the-badge&labelColor=0D1117&color=9D7CD8" alt="Last commit" />
+    </td>
+  </tr>
+</table>
 
 <!-- Divider -->
 <div align="center">
@@ -168,19 +185,6 @@ me.say_hi()
   <a href="https://github.com/fzlzjerry">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</div>
-
-<!-- Divider -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" alt="divider" />
-</div>
-
-<!-- ===================================== TROPHIES ===================================== -->
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fzlzjerry&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" alt="GitHub Trophies" />
 </div>
 
 <!-- Divider -->
