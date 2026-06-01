@@ -49,7 +49,7 @@ me.say_hi()
 
 ### 🎯 Quick Facts
 
-- 🔭 &nbsp;**Currently Working On:** [**win12**](https://github.com/tjy-gitnub/win12) & [**lobe-chat**](https://github.com/lobehub/lobe-chat)
+- 🔭 &nbsp;**Currently Working On:** [**win12**](https://github.com/win12-online/win12) & [**lobe-chat**](https://github.com/lobehub/lobe-chat)
 - 🌱 &nbsp;**Learning:** `MATLAB` &middot; `Advanced ML` &middot; `System Design`
 - 👯 &nbsp;**Collaborating On:** [**bili2text**](https://github.com/lanbinshijie/bili2text)
 - 💬 &nbsp;**Ask Me About:** `Python` `C++` `Open Source` `Problem Solving`
@@ -145,17 +145,17 @@ me.say_hi()
       <img src="https://img.shields.io/github/last-commit/fzlzjerry/wechat-antirecall?style=for-the-badge&labelColor=0D1117&color=9D7CD8" alt="Last commit" />
     </td>
     <td width="33%" align="center" valign="top">
-      <h3><a href="https://github.com/tjy-gitnub/win12">🪟 win12</a></h3>
+      <h3><a href="https://github.com/win12-online/win12">🪟 win12</a></h3>
       <p>A slick <b>Windows 12</b> concept that runs entirely in the browser.</p>
-      <a href="https://github.com/tjy-gitnub/win12">
-        <img src="https://img.shields.io/github/stars/tjy-gitnub/win12?style=for-the-badge&logo=github&labelColor=0D1117&color=E0AF68" alt="Stars" />
+      <a href="https://github.com/win12-online/win12">
+        <img src="https://img.shields.io/github/stars/win12-online/win12?style=for-the-badge&logo=github&labelColor=0D1117&color=E0AF68" alt="Stars" />
       </a>
-      <a href="https://github.com/tjy-gitnub/win12">
-        <img src="https://img.shields.io/github/forks/tjy-gitnub/win12?style=for-the-badge&logo=github&labelColor=0D1117&color=6495ED" alt="Forks" />
+      <a href="https://github.com/win12-online/win12">
+        <img src="https://img.shields.io/github/forks/win12-online/win12?style=for-the-badge&logo=github&labelColor=0D1117&color=6495ED" alt="Forks" />
       </a>
       <br/>
-      <img src="https://img.shields.io/github/languages/top/tjy-gitnub/win12?style=for-the-badge&labelColor=0D1117&color=70A5FD" alt="Top language" />
-      <img src="https://img.shields.io/github/last-commit/tjy-gitnub/win12?style=for-the-badge&labelColor=0D1117&color=9D7CD8" alt="Last commit" />
+      <img src="https://img.shields.io/github/languages/top/win12-online/win12?style=for-the-badge&labelColor=0D1117&color=70A5FD" alt="Top language" />
+      <img src="https://img.shields.io/github/last-commit/win12-online/win12?style=for-the-badge&labelColor=0D1117&color=9D7CD8" alt="Last commit" />
     </td>
     <td width="33%" align="center" valign="top">
       <h3><a href="https://github.com/lobehub/lobe-chat">💬 lobe-chat</a></h3>
