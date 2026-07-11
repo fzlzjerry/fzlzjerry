@@ -6,7 +6,7 @@ Open-source developer at [@OpenTeens](https://github.com/OpenTeens). I build mac
 
 ## Projects
 
-- **[wechat-antirecall](https://github.com/fzlzjerry/wechat-antirecall)** — Anti-recall (防撤回) for macOS WeChat 4 and later. `Swift` · 277★
+- **[wechat-antirecall](https://github.com/fzlzjerry/wechat-antirecall)** — Anti-recall (防撤回) for macOS WeChat 4 and later. `Swift` · 294★
 - **[lumen](https://github.com/fzlzjerry/lumen)** — A complete dynamic programming language in Rust: bytecode VM, generational GC, classes, modules, pattern matching, and a full toolchain (REPL, debugger, LSP). Dependency-free. `Rust`
 - **[hearth](https://github.com/fzlzjerry/hearth)** — Self-hosted, keyboard-first web TUI for managing tmux sessions and live terminals across multiple servers. `TypeScript`
 - **MCP servers** — [tarot-mcp](https://github.com/fzlzjerry/tarot-mcp) (12★), [uniprot-mcp](https://github.com/fzlzjerry/uniprot-mcp), [polymarket-mcp](https://github.com/fzlzjerry/polymarket-mcp). `TypeScript` / `Python`
