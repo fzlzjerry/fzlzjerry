@@ -6,8 +6,8 @@ Open-source developer at [@OpenTeens](https://github.com/OpenTeens) and [@oh-my-
 
 <a href="https://ghfind.com/u/fzlzjerry?ref=badge">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/fzlzjerry?theme=dark" />
-    <img src="https://ghfind.com/api/card/mini/fzlzjerry?theme=light" alt="ghfind: 86.20 / 100 ELITE" width="440" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/fzlzjerry?theme=dark&lang=zh" />
+    <img src="https://ghfind.com/api/card/mini/fzlzjerry?theme=light&lang=en" alt="GitHub Roast 评分卡" width="440" />
   </picture>
 </a>
 
