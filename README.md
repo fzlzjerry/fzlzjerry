@@ -2,7 +2,14 @@
 
 Open-source developer at [@OpenTeens](https://github.com/OpenTeens) and [@oh-my-hf](https://github.com/oh-my-hf). I build macOS utilities, desktop clients, and AI / MCP servers — mostly in Swift, Rust, TypeScript & Python.
 
-🌐 [moraxcheng.me](https://moraxcheng.me) · ✉️ [james20081204@gmail.com](mailto:james20081204@gmail.com) · 🐦 [@MoraxCheng](https://twitter.com/MoraxCheng) · 🤗 [MoraxCheng](https://huggingface.co/MoraxCheng)
+🌐 [moraxcheng.me](https://moraxcheng.me) · ✉️ [james20081204@gmail.com](mailto:james20081204@gmail.com) · 🐦 [@moraxc08](https://x.com/moraxc08) · 🤗 [MoraxCheng](https://huggingface.co/MoraxCheng)
+
+<a href="https://ghfind.com/u/fzlzjerry?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/fzlzjerry?theme=dark" />
+    <img src="https://ghfind.com/api/card/mini/fzlzjerry?theme=light" alt="ghfind: 86.20 / 100 ELITE" width="440" />
+  </picture>
+</a>
 
 ## Projects
 
@@ -14,6 +21,10 @@ Open-source developer at [@OpenTeens](https://github.com/OpenTeens) and [@oh-my-
 - **MCP servers** — [tarot-mcp](https://github.com/fzlzjerry/tarot-mcp) (15★), [uniprot-mcp](https://github.com/fzlzjerry/uniprot-mcp), [polymarket-mcp](https://github.com/fzlzjerry/polymarket-mcp). `TypeScript` / `Python`
 
 Also: [chromium-detector](https://github.com/fzlzjerry/chromium-detector) (macOS), [graphing_calculator](https://github.com/fzlzjerry/graphing_calculator), [Image_Signatures](https://github.com/fzlzjerry/Image_Signatures).
+
+## Upstream
+
+Contributor to [rust-clippy](https://github.com/rust-lang/rust-clippy), [Prometheus](https://github.com/prometheus/prometheus), [rclone](https://github.com/rclone/rclone), [Git LFS](https://github.com/git-lfs/git-lfs), and [fasthttp](https://github.com/valyala/fasthttp).
 
 ## Awards
 
