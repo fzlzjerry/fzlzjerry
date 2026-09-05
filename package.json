@@ -10,6 +10,6 @@
     "snake": "node scripts/generate-snake.mjs"
   },
   "devDependencies": {
-    "markdownlint-cli2": "^0.23.2"
+    "markdownlint-cli2": "0.23.2"
   }
 }

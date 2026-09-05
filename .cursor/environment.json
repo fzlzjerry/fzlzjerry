@@ -1,4 +1,4 @@
 {
   "name": "fzlzjerry profile",
-  "install": "npm install"
+  "install": "npm ci"
 }
