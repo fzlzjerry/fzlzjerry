@@ -2,7 +2,7 @@
 
 Open-source developer at [@OpenTeens](https://github.com/OpenTeens) and [@oh-my-hf](https://github.com/oh-my-hf). I build macOS utilities, desktop clients, and AI / MCP servers — mostly in Swift, Rust, TypeScript & Python.
 
-🌐 [moraxcheng.me](https://moraxcheng.me) · ✉️ [james20081204@gmail.com](mailto:james20081204@gmail.com) · 🐦 [@moraxc08](https://x.com/moraxc08) · 🤗 [MoraxCheng](https://huggingface.co/MoraxCheng)
+🌐 [moraxcheng.me](https://moraxcheng.me) · ✉️ [yixuancheng08@gmail.com](mailto:yixuancheng08@gmail.com) · 🐦 [@moraxc08](https://x.com/moraxc08) · 💼 [LinkedIn](https://www.linkedin.com/in/morax-cheng-1ab88633a/) · 🤗 [MoraxCheng](https://huggingface.co/MoraxCheng)
 
 <a href="https://ghfind.com/u/fzlzjerry?ref=badge">
   <picture>
@@ -13,8 +13,8 @@ Open-source developer at [@OpenTeens](https://github.com/OpenTeens) and [@oh-my-
 
 ## Projects
 
-- **[wechat-antirecall](https://github.com/fzlzjerry/wechat-antirecall)** — Anti-recall (防撤回) for macOS WeChat 4 and later. `Swift` · 375★
-- **[Oh My HuggingFace](https://github.com/fzlzjerry/ohmyhf)** — Unofficial cross-platform desktop client for the Hugging Face Hub. [ohmyhf.com](https://ohmyhf.com) · `TypeScript` · 97★
+- **[wechat-antirecall](https://github.com/fzlzjerry/wechat-antirecall)** — Anti-recall (防撤回) for macOS WeChat 4 and later. `Swift` · 383★
+- **[Oh My HuggingFace](https://github.com/fzlzjerry/ohmyhf)** — Unofficial cross-platform desktop client for the Hugging Face Hub. [ohmyhf.com](https://ohmyhf.com) · `TypeScript` · 99★
 - **[lumen](https://github.com/fzlzjerry/lumen)** — A complete dynamic programming language in Rust: bytecode VM, generational GC, classes, modules, pattern matching, and a full toolchain (REPL, debugger, LSP). Dependency-free. `Rust`
 - **[hearth](https://github.com/fzlzjerry/hearth)** — Self-hosted, keyboard-first web TUI for managing tmux sessions and live terminals across multiple servers. `TypeScript`
 - **[linuxdo-macos](https://github.com/fzlzjerry/linuxdo-macos)** — Native-feeling macOS client for linux.do. `Tauri` · `TypeScript`
