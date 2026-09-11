@@ -1,0 +1,12 @@
+{
+  // Profile README uses HTML badges (<picture>/<img>) and long descriptive
+  // lines on purpose, so relax the two purely stylistic rules that flag them.
+  // Every other markdownlint rule stays on to catch real markup mistakes.
+  "config": {
+    "default": true,
+    "MD013": false,
+    "MD033": false
+  },
+  "globs": ["**/*.md"],
+  "ignores": ["node_modules", "dist"]
+}
