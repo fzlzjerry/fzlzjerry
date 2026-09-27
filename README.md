@@ -1,6 +1,6 @@
 # Morax Cheng
 
-Open-source developer at [@OpenTeens](https://github.com/OpenTeens) and [@oh-my-hf](https://github.com/oh-my-hf). I build macOS utilities, desktop clients, and AI / MCP servers — mostly in Swift, Rust, TypeScript & Python.
+Open-source developer at [@OpenTeens](https://github.com/OpenTeens), [@oh-my-hf](https://github.com/oh-my-hf), and [@WallpaperMachine](https://github.com/WallpaperMachine). I build macOS utilities, desktop clients, and AI / MCP servers — mostly in Swift, Rust, TypeScript & Python.
 
 🌐 [moraxcheng.me](https://moraxcheng.me) · ✉️ [yixuancheng08@gmail.com](mailto:yixuancheng08@gmail.com) · 🐦 [@moraxc08](https://x.com/moraxc08) · 💼 [LinkedIn](https://www.linkedin.com/in/morax-cheng-1ab88633a/) · 🤗 [MoraxCheng](https://huggingface.co/MoraxCheng)
 
@@ -13,8 +13,9 @@ Open-source developer at [@OpenTeens](https://github.com/OpenTeens) and [@oh-my-
 
 ## Projects
 
-- **[wechat-antirecall](https://github.com/fzlzjerry/wechat-antirecall)** — Anti-recall (防撤回) for macOS WeChat 4 and later. `Swift` · 383★
-- **[Oh My HuggingFace](https://github.com/fzlzjerry/ohmyhf)** — Unofficial cross-platform desktop client for the Hugging Face Hub. [ohmyhf.com](https://ohmyhf.com) · `TypeScript` · 99★
+- **[WallpaperMachine](https://github.com/WallpaperMachine/WallpaperMachine)** — Wallpaper Engine scene, video, and web wallpapers, live on Apple silicon Macs. Swift app over a Rust core, rendered with Metal. [wallpapermachine.app](https://www.wallpapermachine.app) · `Swift` · `Rust` · 19★
+- **[wechat-antirecall](https://github.com/fzlzjerry/wechat-antirecall)** — Anti-recall (防撤回) for macOS WeChat 4 and later. `Swift` · 404★
+- **[Oh My HuggingFace](https://github.com/fzlzjerry/ohmyhf)** — Unofficial cross-platform desktop client for the Hugging Face Hub. [ohmyhf.com](https://ohmyhf.com) · `TypeScript` · 106★
 - **[lumen](https://github.com/fzlzjerry/lumen)** — A complete dynamic programming language in Rust: bytecode VM, generational GC, classes, modules, pattern matching, and a full toolchain (REPL, debugger, LSP). Dependency-free. `Rust`
 - **[hearth](https://github.com/fzlzjerry/hearth)** — Self-hosted, keyboard-first web TUI for managing tmux sessions and live terminals across multiple servers. `TypeScript`
 - **[linuxdo-macos](https://github.com/fzlzjerry/linuxdo-macos)** — Native-feeling macOS client for linux.do. `Tauri` · `TypeScript`
@@ -32,4 +33,4 @@ iGEM 2025 Silver (BASIS-China, Dry Lab Lead) · HiMCM 2025 Meritorious · USACO 
 
 ## Tech
 
-Swift · Rust · TypeScript · Python · Objective-C++ · Electron · Tauri · Git · Docker · Linux
+Swift · Rust · TypeScript · Python · Objective-C++ · Metal · Electron · Tauri · Git · Docker · Linux
