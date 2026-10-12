@@ -13,8 +13,8 @@ Open-source developer at [@OpenTeens](https://github.com/OpenTeens), [@oh-my-hf]
 
 ## Projects
 
-- **[WallpaperMachine](https://github.com/WallpaperMachine/WallpaperMachine)** — Wallpaper Engine scene, video, and web wallpapers, live on Apple silicon Macs. Swift app over a Rust core, rendered with Metal. [wallpapermachine.app](https://www.wallpapermachine.app) · `Swift` · `Rust` · 19★
-- **[wechat-antirecall](https://github.com/fzlzjerry/wechat-antirecall)** — Anti-recall (防撤回) for macOS WeChat 4 and later. `Swift` · 404★
+- **[WallpaperMachine](https://github.com/WallpaperMachine/WallpaperMachine)** — Wallpaper Engine scene, video, and web wallpapers, live on Apple silicon Macs. Swift app over a Rust core, rendered with Metal. [wallpapermachine.app](https://www.wallpapermachine.app) · `Swift` · `Rust` · 379★
+- **[wechat-antirecall](https://github.com/fzlzjerry/wechat-antirecall)** — Anti-recall (防撤回) for macOS WeChat 4 and later. `Swift` · 420★
 - **[Oh My HuggingFace](https://github.com/fzlzjerry/ohmyhf)** — Unofficial cross-platform desktop client for the Hugging Face Hub. [ohmyhf.com](https://ohmyhf.com) · `TypeScript` · 106★
 - **[lumen](https://github.com/fzlzjerry/lumen)** — A complete dynamic programming language in Rust: bytecode VM, generational GC, classes, modules, pattern matching, and a full toolchain (REPL, debugger, LSP). Dependency-free. `Rust`
 - **[hearth](https://github.com/fzlzjerry/hearth)** — Self-hosted, keyboard-first web TUI for managing tmux sessions and live terminals across multiple servers. `TypeScript`
