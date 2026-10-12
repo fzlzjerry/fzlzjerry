@@ -1,0 +1,15 @@
+{
+  "name": "fzlzjerry-profile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "GitHub profile README for @fzlzjerry, with local tooling to lint the README and reproduce the contribution-snake SVG that CI publishes.",
+  "type": "module",
+  "scripts": {
+    "lint": "markdownlint-cli2 \"**/*.md\"",
+    "lint:fix": "markdownlint-cli2 --fix \"**/*.md\"",
+    "snake": "node scripts/generate-snake.mjs"
+  },
+  "devDependencies": {
+    "markdownlint-cli2": "0.23.2"
+  }
+}
